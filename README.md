@@ -1,6 +1,6 @@
 # CSC 423: Machine Learning Coursework
 
-This repository contains a collection of machine learning exercises and practicals completed as part of CSC 423, covering both supervised and unsupervised learning techniques. The work focuses on house price prediction, fraud detection, clustering, dimensionality reduction, image analysis, and model evaluation.
+This repository contains a collection of machine learning exercises and practicals completed as part of CSC 423, a year 400 lvl university coursework, covering both supervised and unsupervised learning techniques. The work focuses on house price prediction, fraud detection, clustering, dimensionality reduction, image analysis, and model evaluation.
 
 ## Overview
 
