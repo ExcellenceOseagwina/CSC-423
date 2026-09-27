@@ -420,7 +420,7 @@ def render_html(result=None, values=None, errors=None):
     </aside>
   </main>
   <footer>
-    Built from Oseagwina_COSC22404_Ass1.ipynb. Prediction endpoint: POST /api/predict with JSON feature values.
+   Made by Excellence Oseagwina with Python.
   </footer>
   <script>
     const samples = document.querySelectorAll(".sample-button");
