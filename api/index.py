@@ -184,6 +184,7 @@ def render_html(result=None, values=None, errors=None):
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>House Price Prediction</title>
+  <link rel="shortcut icon" href="/favicon/favicon-512.png" type="image/x-icon">
   <style>
     :root {{
       color-scheme: light;
